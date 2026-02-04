@@ -21,7 +21,7 @@ A Bloomberg-style interface for analyzing CEO performance across S&P 500 compani
 
 - Coverage: S&P 500
 - Pricing: $99/month per user (7-day free trial)
-- Features: CEO rankings, comparisons, filtering by performance / compensation / founder status
+- Features: CEO rankings, comparisons, filtering by TSR / Revenue growth / compensation efficiency / founder status / sector / industry
 
 ### CEORater API
 Programmatic access to CEO performance data for integration into trading systems, research platforms, and AI applications.
