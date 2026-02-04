@@ -2,7 +2,7 @@
 
 **Institutional-grade CEO Performance Data & Analytics** — objective, data-driven insights into CEO Performance across shareholder returns, revenue growth, compensation efficiency and more.
 
-## Start here
+## Overview
 - Website: https://www.ceorater.com/
 - API Docs: https://www.ceorater.com/api-docs.html
 - Methodology: https://www.ceorater.com/methodology
@@ -17,7 +17,7 @@
 ## Products
 
 ### CEORater Web Application
-A Bloomberg-style interface for analyzing CEO performance across S&P 500 companies.
+A Bloomberg-style interface for analyzing CEO Performance across S&P 500 companies.
 
 - Coverage: S&P 500
 - Pricing: $99/month per user (7-day free trial)
