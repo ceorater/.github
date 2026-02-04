@@ -1,6 +1,6 @@
 # CEORater
 
-**Institutional-grade CEO performance analytics** — objective, data-driven insights into CEO Performance across shareholder returns, revenue growth, and CEO compensation efficiency.
+**Institutional-grade CEO Performance Data & Analytics** — objective, data-driven insights into CEO Performance across shareholder returns, revenue growth, compensation efficiency and more.
 
 ## Start here
 - Website: https://www.ceorater.com/
